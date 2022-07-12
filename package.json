@@ -1,0 +1,12 @@
+{
+  "name": "owlski-dao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Androz2091/owlski-dao.git",
+  "author": "Androz2091 <androz2091@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0-dev.1657411900-f0b68d5",
+    "easy-json-database": "^1.5.0"
+  }
+}

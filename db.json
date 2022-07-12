@@ -1,0 +1,26 @@
+{
+  "whales-alerts": {
+    "votes": 1,
+    "voters": [
+      "422820341791064085"
+    ],
+    "requiredVotes": 21,
+    "createdAt": "2022-07-12T09:30:22.222Z"
+  },
+  "whales-alertss": {
+    "votes": 1,
+    "voters": [
+      "422820341791064085"
+    ],
+    "requiredVotes": 1,
+    "createdAt": "2022-07-12T09:32:43.808Z"
+  },
+  "whales-alertsss": {
+    "votes": 1,
+    "voters": [
+      "422820341791064085"
+    ],
+    "requiredVotes": 1,
+    "createdAt": "2022-07-12T09:33:26.744Z"
+  }
+}
