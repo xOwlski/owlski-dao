@@ -82,7 +82,7 @@ client.on('messageCreate', (message) => {
     const args = message.content.slice(1).split(/ +/);
     const command = args.shift().toLowerCase();
 
-    if (command === 'dao-channel') {
+    if (command === 'create') {
         const channelName = args.join(' ');
         if (!channelName) {
             return void message.reply('Please specify a channel name!');
